@@ -1,4 +1,14 @@
-# Infinite Scrolling Made Easy: Intro to Intersection Observer API
+---
+title: "Infinite Scrolling Made Easy: Intro to Intersection Observer API"
+seoTitle: "Infinite Scrolling Made Easy: Intro to Intersection Observer API"
+seoDescription: "Infinite Scrolling Made Easy: Intro to Intersection Observer API"
+datePublished: Wed Jun 16 2021 07:44:58 GMT+0000 (Coordinated Universal Time)
+cuid: ckpz65o5m04j6tvs1f2wh94mj
+slug: infinite-scrolling-made-easy-intro-to-intersection-observer-api
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1623694752346/TNnQ9kLsY.jpeg
+tags: browser, javascript, apis, reactjs, web-api
+
+---
 
 Hello Everyone!
 
