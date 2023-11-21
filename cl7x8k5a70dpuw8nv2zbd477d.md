@@ -1,4 +1,14 @@
-# Developing an Infinitely Nested Comment & Reply Feature
+---
+title: "Developing an Infinitely Nested Comment & Reply Feature"
+seoTitle: "Infinitely Nested Comment & Reply Feature"
+seoDescription: "Developing an Infinitely Nested Comment & Reply Feature similar to Reddit Comments"
+datePublished: Sun Sep 11 2022 11:11:22 GMT+0000 (Coordinated Universal Time)
+cuid: cl7x8k5a70dpuw8nv2zbd477d
+slug: infinitely-nested-comment-reply-feature
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1662890927271/dlqNIl1h6.png
+tags: javascript, reactjs, problem-solving, reddit, tailwind-css
+
+---
 
 ## What are we going to cover today? 
 We will develop a nested comment & reply feature of Nth depth where n can be any finite number. First, the following section will discuss the problem statement in more detail. Let's get started!
