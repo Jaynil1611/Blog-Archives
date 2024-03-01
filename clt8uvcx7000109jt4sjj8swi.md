@@ -115,7 +115,7 @@ To my surprise, one DSA question [String Permutations](https://www.geeksforgeeks
 
 ## Conclusion
 
-Two days after finishing the interviews, the recruiter informed me that I had cleared all the rounds & I was **selected** for the Software Engineer - Frontend role 😍. I negotiated with the recruiter to increase the base component in the salary & it worked out very well for me in the end.
+Two days after finishing the interviews, the recruiter informed me that I had cleared all the rounds & I was **selected** for the Software Engineer - Frontend role 😍. I negotiated with the recruiter & it worked out very well for me in the end.
 
 Thank you, guys, for reading up till here, I hope you enjoyed and learnt something new! You can connect with me on [**X**](https://twitter.com/Jaynil_Gaglani), [**LinkedIn**](https://www.linkedin.com/in/jaynilgaglani/) & [**GitHub**](https://github.com/Jaynil1611).
 
