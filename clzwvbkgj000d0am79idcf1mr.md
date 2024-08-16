@@ -11,7 +11,7 @@ tags: interview, startups, javascript, frontend, reactjs, frontend-development, 
 ---
 
 Hello folks,  
-I had the opportunity to interview recently at [**Clipboard Health**](https://www.linkedin.com/company/clipboard-health/) (a US-based healthcare startup) for the **Frontend** **Software Engineer role**. This role is more inclined towards the frontend domain & I will share my interview experience in this post.
+I had the opportunity to interview recently at [**Clipboard Health**](https://www.linkedin.com/company/clipboard-health/) (a US-based healthcare startup) for the **Frontend** **Software Engineer role**. This role is more inclined towards the frontend domain, and I will share my interview experience in this post.
 
 ## **How did I get to know about this opportunity?**
 
@@ -79,13 +79,13 @@ Hint:
 
 > ***Refer to this*** [***CodeSandBox Link***](https://codesandbox.io/p/devbox/clipboard-health-problem-solving-round-1-9lqmxm) ***for solution***
 
-This problem included many edges including fractional numbers and negative numbers. It was expected to handle all the edge case scenarios without using in-built `Number` function. The solution hint of ASCII character codes helped me quickly devise the solution for this problem.
+This problem included many edges including fractional numbers and negative numbers. It was expected to handle all the edge case scenarios without using in-built `Number` function. The hint about using ASCII character codes helped me quickly devise a solution for this problem.
 
 ## Javascript Problem-Solving Round 2
 
 Duration: 60 minutes
 
-The problem statement included finding the top 3 interesting articles from a paginated API. The top 3 articles will be ranked according to the number of likes and comments each article has received.
+The problem statement involved finding the top 3 interesting articles from a paginated API. The top 3 articles will be ranked according to the number of likes and comments each article has received.
 
 **Example:** API Response Structure  
 The metadata object will contain information on the number of pages, total articles & link to the next page. Using this link, the next set of articles should be queried till the next page is `undefined` i.e. the last page.
