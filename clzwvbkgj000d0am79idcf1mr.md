@@ -1,7 +1,7 @@
 ---
 title: "Frontend Interview Experience at Clipboard Health"
 seoTitle: "Frontend Interview Experience at Clipboard Health"
-seoDescription: "Discover the detailed frontend interview experience at Clipboard Health, including coding challenges and problem-solving rounds. Learn insights and tips to"
+seoDescription: "A detailed frontend interview experience at Clipboard Health, covering React and JavaScript coding rounds with insights and solutions"
 datePublished: Fri Aug 16 2024 15:32:33 GMT+0000 (Coordinated Universal Time)
 cuid: clzwvbkgj000d0am79idcf1mr
 slug: frontend-interview-experience-at-clipboard-health
